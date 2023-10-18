@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\UdemyCsharp\UdemyCsharp\obj\Debug\UdemyCsharp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\UdemyCsharp\UdemyCsharp\obj\Debug\UdemyCsharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\UdemyCsharp\UdemyCsharp\obj\Debug\UdemyCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\UdemyCsharp\UdemyCsharp\bin\Debug\UdemyCsharp.exe.config
+C:\Users\Lenovo\source\repos\UdemyCsharp\UdemyCsharp\bin\Debug\UdemyCsharp.exe
+C:\Users\Lenovo\source\repos\UdemyCsharp\UdemyCsharp\bin\Debug\UdemyCsharp.pdb
+C:\Users\Lenovo\source\repos\UdemyCsharp\UdemyCsharp\obj\Debug\UdemyCsharp.exe
+C:\Users\Lenovo\source\repos\UdemyCsharp\UdemyCsharp\obj\Debug\UdemyCsharp.pdb

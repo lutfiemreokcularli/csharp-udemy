@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\UdemyCsharp\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\Lenovo\source\repos\UdemyCsharp\TestProject\bin\Debug\TestProject.exe
+C:\Users\Lenovo\source\repos\UdemyCsharp\TestProject\bin\Debug\TestProject.pdb
+C:\Users\Lenovo\source\repos\UdemyCsharp\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\UdemyCsharp\TestProject\obj\Debug\TestProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\UdemyCsharp\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\UdemyCsharp\TestProject\obj\Debug\TestProject.exe
+C:\Users\Lenovo\source\repos\UdemyCsharp\TestProject\obj\Debug\TestProject.pdb

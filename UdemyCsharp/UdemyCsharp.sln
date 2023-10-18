@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyCsharp", "UdemyCsharp\UdemyCsharp.csproj", "{19AD0EB8-17DE-47E6-8044-F78AFE6D2BD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{5EF76E03-2598-48EE-BB0E-0289CEDAAB17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19AD0EB8-17DE-47E6-8044-F78AFE6D2BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19AD0EB8-17DE-47E6-8044-F78AFE6D2BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19AD0EB8-17DE-47E6-8044-F78AFE6D2BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19AD0EB8-17DE-47E6-8044-F78AFE6D2BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EF76E03-2598-48EE-BB0E-0289CEDAAB17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF76E03-2598-48EE-BB0E-0289CEDAAB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF76E03-2598-48EE-BB0E-0289CEDAAB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF76E03-2598-48EE-BB0E-0289CEDAAB17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {101DF873-5D1E-492D-B749-00E674C48442}
+	EndGlobalSection
+EndGlobal
