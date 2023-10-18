@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Matematik;
+using ErisimBelirleyici;
 
 namespace TestProject
 {
@@ -10,7 +8,21 @@ namespace TestProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("emre");
+            Islem i = new Islem();
+            i.PublicVeri = "emre";
+
+
         }
+
+        public class Ucgen: sekil
+        {
+           public void hesapla()
+            {
+                
+                sekil sekil = new sekil();
+            }
+        }
+
+
     }
 }
